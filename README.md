@@ -1,6 +1,6 @@
 # 😄 Hello! My name is Duxi!
 ## 🤓 Learning:
-  - [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+  - 🐍 [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ## 🔧 Currently working on:
   - 🫥 [Barescroll](https://github.com/GitDuxi/barescroll)
@@ -10,7 +10,7 @@
   - 🍕 [Pizza](https://en.wikipedia.org/wiki/Pizza)
 
 ## Also on:
-  - [Scratch](https://scratch.mit.edu/users/Duxi7473)
+  - 🐱 [Scratch](https://scratch.mit.edu/users/Duxi7473)
   <!--
 **GitDuxi/GitDuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
