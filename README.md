@@ -1,4 +1,4 @@
-### 😄 Hello! My name is Duxi!
+# 😄 Hello! My name is Duxi!
 ## 🤓 Learning:
   - [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
