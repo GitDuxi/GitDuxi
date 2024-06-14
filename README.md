@@ -1,6 +1,6 @@
 # 😄 Hello! My name is Duxi!
 ## 🤗 About Me:
-  - ♀♂ Is gender [Male](https://en.wikipedia.org/wiki/Male)
+  - ♀♂ Is gender [Male](https://en.wikipedia.org/wiki/Male).
   - 📆 Joined Github on [December 12th, 2020](https://en.wikipedia.org/wiki/Portal:Current_events/2020_December_12).
   - 🐍 Learning [Python](https://en.wikipedia.org/wiki/Python_(programming_language)).
   - 🐱 Also on [Scratch](https://scratch.mit.edu/users/Duxi7473).
