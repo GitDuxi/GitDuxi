@@ -1,5 +1,6 @@
 # 😄 Hello! My name is Duxi!
 
+## 📊 Stats
 ![Duxi7473's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduxi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 ![Duxi7473's Stats](https://github-readme-stats.vercel.app/api?username=gitduxi&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
 [![trophy](https://github-profile-trophy.vercel.app/?username=gitduxi&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
@@ -14,7 +15,7 @@
   - 🎮 Likes [Gaming](https://en.wikipedia.org/wiki/Video_game).
 
 ## 🔧 Currently working on:
-  - 🫥 [Barescroll](https://github.com/GitDuxi/barescroll).
+  - 🖱️ [Scrollr](https://github.com/GitDuxi/scrollr).
 
   <!--
 **GitDuxi/GitDuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
