@@ -1,6 +1,6 @@
 # 😄 Hello! My name is Duxi!
 
-## 📊 Stats
+## 📊 Stats:
 ![Duxi7473's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduxi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 ![Duxi7473's Stats](https://github-readme-stats.vercel.app/api?username=gitduxi&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
 [![trophy](https://github-profile-trophy.vercel.app/?username=gitduxi&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
