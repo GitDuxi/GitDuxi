@@ -1,4 +1,4 @@
-# 😄 Hello! My name is Duxi!
+# 😄 Hello! My name is Duxi7473!
 
 ## 📊 Stats:
 ![Duxi7473's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitduxi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
