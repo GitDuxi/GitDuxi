@@ -9,9 +9,8 @@
   - ♀♂ Is gender [Male](https://en.wikipedia.org/wiki/Male).
   - 📆 Joined Github on [December 12th, 2020](https://en.wikipedia.org/wiki/Portal:Current_events/2020_December_12).
   - 👨‍💻 Learning [HTML/CSS/JS](https://en.wikipedia.org/wiki/HTML).
-  - 🟠 Likes [Orange](https://en.wikipedia.org/wiki/Orange_(colour)).
-  - 🍕 Likes [Pizza](https://en.wikipedia.org/wiki/Pizza).
-  - 🎮 Likes [Gaming](https://en.wikipedia.org/wiki/Video_game).
+  - 🟠 Likes [Orange](https://en.wikipedia.org/wiki/Orange_(colour)) and [Purple](https://en.wikipedia.org/wiki/Purple).
+  - Likes [the OSC](https://en.wikipedia.org/wiki/Battle_for_Dream_Island#Cultural_impact).
 
   <!--
 **GitDuxi/GitDuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
